@@ -1,0 +1,1 @@
+This week there is no Notebook template for the experiment. You will find in this directory the Prelab exercise for Week 6, and some standardized code snippets you may want to use for fitting, etc. You will need to set up your own notebook, so take some time to look at the instructions and start preparing a structure.
