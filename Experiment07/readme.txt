@@ -1,0 +1,1 @@
+This week's folder includes some generic code you may want to use, similar to last week. You will need to set up your own notebook for this week's experiment and decide what code you need/want to use to analyze your data.
